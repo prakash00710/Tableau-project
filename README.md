@@ -12,9 +12,9 @@
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
 <p>
-   <a href="#"> <img src="https://img.shields.io/badge/EXCEL-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange" alt="EXCEL"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/MS-SQL-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue" alt="MS-SQL"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Python"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/EXCEL-orange?style=for-the-badge&labelColor=black&logo=Excel&logoColor=orange" alt="EXCEL"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/MS-SQL-blue?style=for-the-badge&labelColor=black&logo=MS-SQL&logoColor=blue" alt="MS-SQL"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=Python&logoColor=F0DB4F" alt="Python"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&labelColor=black&logo=redux&logoColor=007acc" alt="Redux"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/> </a> &nbsp;
