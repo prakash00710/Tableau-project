@@ -15,17 +15,7 @@
    <a href="#"> <img src="https://img.shields.io/badge/EXCEL-orange?style=for-the-badge&labelColor=black&logo=Excel&logoColor=orange" alt="EXCEL"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/MS-SQL-blue?style=for-the-badge&labelColor=black&logo=MS-SQL&logoColor=blue" alt="MS-SQL"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=Python&logoColor=F0DB4F" alt="Python"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&labelColor=black&logo=redux&logoColor=007acc" alt="Redux"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-Nodejs-609857?style=for-the-badge&labelColor=black&logo=node.js&logoColor=609857" alt="Node JS"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=2361DAFB" alt="Express"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongoDB&logoColor=white" alt="Mongo DB"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white" alt="My SQL"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white" alt="Git"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&labelColor=black&logo=heroku&logoColor=white" alt="Heroku"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=white" alt="Netlify"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&labelColor=black&logo=python&logoColor=white" alt="Python"/> </a> &nbsp;
+  
 </p>
 <h3>📊 Github Stats</h3>
 <br/>
